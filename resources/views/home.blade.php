@@ -10,6 +10,5 @@
         <div class="container">
             <h1>Laravel migration seeder</h1>
         </div>
-
     </body>
 </html>
