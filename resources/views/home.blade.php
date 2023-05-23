@@ -36,7 +36,7 @@
                         <!-- id -->
                         <th scope="row">{{ $train['id'] }}</th>
                         <!-- train number -->
-                        <td>{{ $train['train_number'] }}</td>
+                        <td>{{ $train['train_code'] }}</td>
                         <!-- company -->
                         <td>{{ $train['company'] }}</td>
                         <!-- departure station -->
